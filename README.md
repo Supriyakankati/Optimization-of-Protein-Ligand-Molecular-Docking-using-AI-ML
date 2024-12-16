@@ -15,10 +15,10 @@ Exploring potential side effects or toxicities.
 
 -** These limitations result in inefficiencies, where only 20-30% of compounds identified through molecular docking show activity in biological assays. While AD4 and Vina remain valuable for initial screenings, their results often require refinement to align with experimental outcomes.
 
-Proposed Framework
+### Proposed Framework
 -** To address these challenges, we propose a novel framework integrating Graph Convolutional Neural Networks (GCNs) with traditional docking software.
 
-Key Features
+## Key Features
 -** Graph-based Modeling:
 - GCNs model protein-ligand complexes as graph data, capturing intricate molecular interactions.
 -** Enhanced Prediction:
