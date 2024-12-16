@@ -22,8 +22,10 @@ To address these challenges, we propose a novel framework integrating Graph Conv
 ## Key Features
 Graph-based Modeling:
 - GCNs model protein-ligand complexes as graph data, capturing intricate molecular interactions.
+  
 Enhanced Prediction:
 - Improved accuracy in predicting binding affinities and identifying favorable configurations.
+  
 Hybrid Approach:
 - Combines traditional tools (AD4, Vina) with GCN outputs to optimize docking results.
 
