@@ -1,0 +1,9 @@
+torch==2.0.1         # Replace with the correct version for your system and GPU
+torch-geometric      # Version will be chosen based on torch version and GPU, see below
+torch-scatter        # Required for PyTorch Geometric, also depends on your system
+torch-sparse         # Required for PyTorch Geometric, also depends on your system
+torch-cluster        # Required for PyTorch Geometric, also depends on your system
+torch-spline-conv    # Required for PyTorch Geometric, also depends on your system
+scikit-learn==1.3.0
+biopython==1.80
+matplotlib==3.7.1
