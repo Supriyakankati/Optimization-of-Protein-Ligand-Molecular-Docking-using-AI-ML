@@ -9,7 +9,7 @@ Exploring potential side effects or toxicities.
 - Traditionally, tools like AutoDock4 (AD4) and AutoDock Vina (Vina) estimate protein-ligand binding affinities using heuristic scoring functions, balancing computational efficiency and accuracy.
 
 ## Challenges
--  However, these methods face several challenges:
+However, these methods face several challenges:
 -  Limited ability to capture nuanced molecular interactions.
 -  Rigid receptor assumptions.
 -  naccuracies in pose prediction for complex or flexible systems.
