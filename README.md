@@ -1,6 +1,6 @@
 # Optimization-of-Protein-Ligand-Molecular-Docking-using-AI-ML
 
-## INTRODUCTION
+## Introduction
 Proposed a GNN based framework to predict the binding affinity and best pose evaluation.
 Molecular docking is an in-silico method widely utilized in early-stage drug discovery for:
 Screening promising drug candidates.
