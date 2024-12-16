@@ -1,12 +1,13 @@
 # Optimization-of-Protein-Ligand-Molecular-Docking-using-AI-ML
 
 Introduction:
-
-Molecular docking is an in-silico method widely utilized in early-stage drug discovery for:
+Molecular docking is an in-silico method widely utilized in early-stage drug discovery for
 
 Screening promising drug candidates.
 Exploring potential side effects or toxicities.
-Traditionally, tools like AutoDock4 (AD4) and AutoDock Vina (Vina) estimate protein-ligand binding affinities using heuristic scoring functions, balancing computational efficiency and accuracy. However, these methods face several challenges:
+Traditionally, tools like AutoDock4 (AD4) and AutoDock Vina (Vina) estimate protein-ligand binding affinities using heuristic scoring functions, balancing computational efficiency and accuracy. 
+
+However, these methods face several challenges,
 
 Limited ability to capture nuanced molecular interactions.
 Rigid receptor assumptions.
