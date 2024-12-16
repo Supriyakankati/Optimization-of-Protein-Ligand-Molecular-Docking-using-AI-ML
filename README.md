@@ -30,8 +30,8 @@ Exploring potential side effects or toxicities.
 -** This integrated method leverages machine learning to refine molecular docking patterns, enhancing both predictive accuracy and computational efficiency.
 
 
-## Potential Impact
-- This approach holds significant potential to:
+## Potential Impact 
+This approach holds significant potential to:
 - Revolutionize computational drug discovery.
 - Reduce the development time and costs of new therapeutics.
 - Enhance the overall reliability of protein-ligand docking predictions.
@@ -39,9 +39,3 @@ Exploring potential side effects or toxicities.
 ### The dataset used for this framework can be accessed at:
 https://drive.google.com/drive/folders/1lpUPJIp0Xa7RU-jc7F5AvnAt8D64qt73 
 
-## Potential Impact
-This approach holds significant potential to:
-
-Revolutionize computational drug discovery.
-Reduce the development time and costs of new therapeutics.
-Enhance the overall reliability of protein-ligand docking predictions.
