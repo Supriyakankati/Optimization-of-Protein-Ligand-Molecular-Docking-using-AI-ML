@@ -8,6 +8,9 @@ rigid receptor assumptions, and inaccuracies in pose prediction, particularly in
 These limitations significantly contribute to the inefficiencies observed in drug discovery, 
 where only 20-30% of compounds identified through molecular docking show activity in biological assays.
 While AD4 and Vina remain valuable for initial screenings, their results often require refinement to align with experimental outcomes.
+
+Dataset used: https://drive.google.com/drive/folders/1lpUPJIp0Xa7RU-jc7F5AvnAt8D64qt73 
+
 To address and overcome these challenges, we propose a novel framework integrating Graph Convolutional Neural Networks (GCNs) with traditional docking software.
 GCNs excel in modeling protein-ligand complexes as graph-based data, enabling more precise predictions of binding affinities and identifying the most 
 energetically favorable configurations. This method enhances the predictive accuracy and computational efficiency of docking processes. 
