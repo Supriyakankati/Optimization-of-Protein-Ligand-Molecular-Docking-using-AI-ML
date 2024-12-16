@@ -1,6 +1,6 @@
 # Optimization-of-Protein-Ligand-Molecular-Docking-using-AI-ML
 
-Introduction
+Introduction:
 Molecular docking is an in-silico method widely utilized in early-stage drug discovery for:
 
 Screening promising drug candidates.
@@ -12,7 +12,7 @@ Rigid receptor assumptions.
 Inaccuracies in pose prediction for complex or flexible systems.
 These limitations result in inefficiencies, where only 20-30% of compounds identified through molecular docking show activity in biological assays. While AD4 and Vina remain valuable for initial screenings, their results often require refinement to align with experimental outcomes.
 
-Proposed Framework
+Proposed Framework: 
 To address these challenges, we propose a novel framework integrating Graph Convolutional Neural Networks (GCNs) with traditional docking software.
 
 Key Features
